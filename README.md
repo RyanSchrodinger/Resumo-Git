@@ -124,5 +124,5 @@ git merge nova-branch
 git branch -d nova-branch
 ```
 ## 🎯 Objetivo
-- Aplicar Git e GitHub em todos os meus projetos em Java, organizando melhor meu código, histórico de alterações e colaboração em equipe.
+- Aplicar Git e GitHub em todos os meus projetos, organizando melhor meu código, histórico de alterações e colaboração em equipe.
 - Este repositório faz parte da minha jornada no curso CI&T – Backend com Java & AWS.
